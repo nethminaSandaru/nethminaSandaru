@@ -113,7 +113,7 @@ Android application for eco-tourism experiences.
 <img src="https://img.icons8.com/color/48/gmail-new.png"/>
 </a>
 
-<a href="#">
+<a href="www.linkedin.com/in/sandaru-nethmina-27bb82243">
 <img src="https://img.icons8.com/color/48/linkedin.png"/>
 </a>
 
