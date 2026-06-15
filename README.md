@@ -1,113 +1,147 @@
-## Hi there 👋
+```md
+<img align="right" alt="Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
-<!--
-**nethminaSandaru/nethminaSandaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sandaru Nethmina
+</h1>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...<!-- Profile README for Sandaru Nethmina -->
-
-<h1 align="center">👋 Hi, I'm Sandaru Nethmina</h1>
-<h3 align="center">💻 Full Stack Developer | Mobile & Desktop App Developer | Network Enthusiast</h3>
+<h3 align="center">
+💻 Full Stack Developer | Mobile & Desktop App Developer | Network Enthusiast
+</h3>
 
 ---
 
-### 💡 About Me
-- 🎓 Software Engineering Student at ICBT Campus  
-- 💻 Skilled in **Web**, **Mobile**, and **Desktop Application Development**  
-- 🌐 Passionate about **Networking** and **Cisco Packet Tracer**  
-- 🗄️ Experienced with databases like **MySQL**, **Firebase**, **Microsoft Access**, and **phpMyAdmin**  
-- 🚀 Love creating efficient, user-friendly, and scalable systems  
-- 🌱 Currently learning **AI integration** and **modern frameworks**
+## 🙋‍♂️ About Me
 
----
+- 🎓 Software Engineering Student at **ICBT Campus**
+- 🚀 Currently building modern **Web, Mobile & Desktop Applications**
+- 🌱 Currently learning **React.js, Node.js & AI Integration**
+- 💡 Interested in **Software Engineering, Networking & Full Stack Development**
+- 🤝 Looking to collaborate on **Open Source Projects**
+- 🚉 Final Year Project: **ITRAIN LANKA Railway System**
+- ⚡ Fun fact: I enjoy coding, learning new technologies and exploring networking
 
-### 🧠 Skills & Technologies
+<br>
 
-#### 💻 Programming Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+## 🚀 Languages & Tools
 
-#### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Microsoft Access](https://img.shields.io/badge/-MS%20Access-A4373A?style=flat&logo=microsoft-access)
-![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-6C78AF?style=flat&logo=phpmyadmin)
+### 💻 Programming Languages
+<p>
+<img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/color/48/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/48/css3.png"/>
+<img src="https://img.icons8.com/color/48/javascript--v1.png"/>
+<img src="https://img.icons8.com/color/48/php.png"/>
+<img src="https://img.icons8.com/color/48/c-sharp-logo-2.png"/>
+</p>
 
-#### ⚙️ Tools & Frameworks
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android-studio)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio)
-![NetBeans](https://img.shields.io/badge/-Apache%20NetBeans-1B6AC6?style=flat&logo=apache-netbeans-ide)
-![Cisco Packet Tracer](https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1BA0D7?style=flat&logo=cisco)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![XAMPP](https://img.shields.io/badge/-XAMPP-FB7A24?style=flat&logo=xampp)
+### ⚙️ Frameworks & Technologies
+<p>
+<img src="https://img.icons8.com/color/48/react-native.png"/>
+<img src="https://img.icons8.com/color/48/nodejs.png"/>
+<img src="https://img.icons8.com/color/48/firebase.png"/>
+<img src="https://img.icons8.com/color/48/android-studio--v3.png"/>
+<img src="https://img.icons8.com/color/48/github.png"/>
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio.png"/>
+<img src="https://img.icons8.com/color/48/apache-netbeans.png"/>
+<img src="https://img.icons8.com/color/48/xampp.png"/>
+</p>
 
----
+### 🗄️ Databases
+<p>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/google-firebase-console.png"/>
+<img src="https://img.icons8.com/color/48/microsoft-access-2019.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
+</p>
 
-### 🚀 Featured Projects
-
-#### 🏋️ [FitZone Fitness Center](https://github.com/SandaruNethmina/fitzone)
-A full-featured fitness management web system built using PHP, MySQL, HTML, and CSS.  
-Includes member registration, staff management, and service scheduling.
-
-#### 💼 [GadgetHub](https://github.com/SandaruNethmina/gadgethub)
-A hybrid **PHP + ASP.NET** project for product comparison and order placement.  
-Customers can view gadgets, request quotes, and place orders with real-time API integration.
-
-#### 🚉 [ITRAIN LANKA Railway System](https://github.com/SandaruNethmina/itrain-lanka)
-A digital train management system that combines **Web**, **Mobile**, and **Desktop** applications.  
-Includes smart ticketing, schedules, and real-time tracking.
-
-#### 🌿 [EcoStay Retreat](https://github.com/SandaruNethmina/ecostay-retreat)
-An interactive Android app for an eco-friendly resort.  
-Enables guests to book rooms, join adventures, and explore sustainability experiences.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SandaruNethmina&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SandaruNethmina&layout=compact&theme=tokyonight" alt="Top Languages" />
+### 🌐 Networking & Other Tools
+<p>
+<img src="https://img.icons8.com/color/48/cisco.png"/>
+<img src="https://img.icons8.com/color/48/figma--v1.png"/>
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🚀 Featured Projects
+
+### 🚉 ITRAIN LANKA Railway System
+Digital railway management system combining Web, Mobile and Desktop applications.
+
+### 🏋️ FitZone Fitness Center
+Fitness management platform with registration, scheduling and management.
+
+### 💼 GadgetHub
+PHP + ASP.NET system for gadget comparison and ordering.
+
+### 🌿 EcoStay Retreat
+Android application for eco-tourism experiences.
+
+---
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SandaruNethmina&theme=algolia&no-frame=true&margin-w=15" alt="Trophies" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nethminaSandaru&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nethminaSandaru&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminaSandaru&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="mailto:nethminasandaru532@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
-  <a href="https://sandaru.github.io"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=githubpages&logoColor=white"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=nethminaSandaru&theme=algolia&no-frame=true"/>
 </p>
 
 ---
 
-### 🐍 Contribution Snake
-![snake gif](https://github.com/SandaruNethmina/SandaruNethmina/blob/output/github-contribution-grid-snake.svg)
+## 🌐 Connect With Me
+
+<p>
+
+<a href="mailto:nethminasandaru532@gmail.com">
+<img src="https://img.icons8.com/color/48/gmail-new.png"/>
+</a>
+
+<a href="#">
+<img src="https://img.icons8.com/color/48/linkedin.png"/>
+</a>
+
+<a href="#">
+<img src="https://img.icons8.com/color/48/instagram-new.png"/>
+</a>
+
+</p>
 
 ---
 
-⭐ *“Code. Learn. Build. Repeat.”*  
+## ❤ Profile Views
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+
+<img src="https://komarev.com/ghpvc/?username=nethminaSandaru&label=Profile%20views"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/nethminaSandaru/nethminaSandaru/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<h3 align="center">
+⭐ Code • Learn • Build • Repeat ⭐
+</h3>
+```
