@@ -1,4 +1,4 @@
-```md
+
 <img align="right" alt="Coding" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%" />
 
 <h1 align="center">
