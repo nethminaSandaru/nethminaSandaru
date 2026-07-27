@@ -230,20 +230,13 @@ Android Application for eco-tourism travel booking and destination management.
 
 ---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
-> **Requires a GitHub Action to generate automatically.**
+<p align="center">
 
-```text
-.github/workflows/snake.yml
-```
+<img src="https://raw.githubusercontent.com/nethminaSandaru/nethminaSandaru/output/github-contribution-grid-snake-dark.svg"/>
 
-After creating the workflow, use:
-
-```markdown
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
-```
-
+</p>
 ---
 
 # 📚 Currently Learning
