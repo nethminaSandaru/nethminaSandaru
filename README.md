@@ -98,7 +98,7 @@ Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wa
 
 <p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="48"/>
+<img src="https://skillicons.dev/icons?i=cisco" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48"/>
 
 </p>
@@ -176,9 +176,9 @@ Android Application for eco-tourism travel booking and destination management.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nethminaSandaru&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nethminaSandaru&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -188,7 +188,7 @@ Android Application for eco-tourism travel booking and destination management.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=nethminaSandaru&theme=algolia&no-frame=true"/>
 
 </p>
 
@@ -224,7 +224,7 @@ Android Application for eco-tourism travel booking and destination management.
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blueviolet&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=nethminaSandaru&label=Profile+Views&color=blueviolet&style=flat"/>
 
 </p>
 
